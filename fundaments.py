@@ -1,5 +1,5 @@
 #variables
-
+#successfullyinserted
 name = "Acchu"
 age = 22
 print(name)
