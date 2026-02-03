@@ -1,4 +1,5 @@
 #variables
+#Arithmetic oprerations successful
 name = "Acchu"
 age = 22
 print(name)
